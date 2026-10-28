@@ -72,5 +72,5 @@ The final output is BED6+4: chromosome, start, end, candidate ID, BED score (set
 
 ## Related analyses
 
-The companion `eclip-thesis-analysis` repository provides workflows for evaluating replicate agreement, reconstructed profiles, candidate calls, read-depth robustness, and motif support. To run this tool, supply paired eCLIP coverage tracks, an indexed reference genome, and a window manifest. The `train` command generates model checkpoints from these inputs.
+The companion [eclip-thesis-analysis](https://github.com/chichizhao912/eclip-thesis-analysis) repository provides workflows for evaluating replicate agreement, reconstructed profiles, candidate calls, read-depth robustness, and motif support. To run this tool, supply paired eCLIP coverage tracks, an indexed reference genome, and a window manifest. The `train` command generates model checkpoints from these inputs.
 
